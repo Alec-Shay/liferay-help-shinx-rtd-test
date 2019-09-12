@@ -172,7 +172,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
+locale_dirs = ['locales/']
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
