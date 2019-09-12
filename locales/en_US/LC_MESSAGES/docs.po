@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Liferay Learn Commerce 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-12 09:29-0700\n"
+"POT-Creation-Date: 2019-09-12 10:17-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.7.0\n"
 
 #: ../../docs/README.md:1
-msgid "Liferay Commerce"
+msgid "Liferay Commerce (version whatever.x)"
 msgstr ""
 
 #: ../../docs/README.md:3 ../../docs/developer-guide/README.md:5
@@ -12237,4 +12237,7 @@ msgstr ""
 #: ../../docs/user-guide/sales/using-the-variable-rate-shipping-method.md:64
 msgid "Using a Flat Rate Shipping Method"
 msgstr ""
+
+#~ msgid "Liferay Commerce"
+#~ msgstr ""
 
