@@ -1,4 +1,4 @@
-# Liferay Commerce
+# Liferay Commerce (latest version)
 
 ## [Getting Started](./installation-and-upgrades/quick-start-guide/quick-start-guide.md)
 
